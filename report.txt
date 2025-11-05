@@ -1,0 +1,25 @@
+Top Keywords Found (Frequency-Based):
+
+cloud: 5
+azure: 5
+user: 4
+using: 4
+stack: 3
+development: 3
+design: 3
+platform: 3
+developed: 3
+microsoft: 3
+
+Top Keywords by TF-IDF Weight:
+
+user: 0.247
+azure: 0.206
+cloud: 0.206
+2023: 0.165
+js: 0.165
+using: 0.165
+2022: 0.124
+2024: 0.124
+aws: 0.124
+design: 0.124
